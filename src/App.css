@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f1f5f9;
+}
+
+.app {
+  min-height: 100vh;
+  padding: 50px 20px;
+}
+
+.main-title {
+  text-align: center;
+  font-size: 40px;
+  color: #1e40af;
+  margin-bottom: 40px;
+}
+
+.student-container {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  gap: 25px;
+  flex-wrap: wrap;
+}
