@@ -1,5 +1,5 @@
 import React from "react";
-import Student from "./Student";
+import Student from "./student";
 import "./App.css";
 
 function App() {
